@@ -1,4 +1,7 @@
+<h1 align="center">Hi 👋, I'm Arpit Singh</h1>
+<h3 align="center">I am Bachelor of Technology in Information Technology</h3>
 
+- 👯 I’m looking to opportunity like **Internship & Software Engineer job**
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100080415881782) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arpit-singh-621017242/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:professionalarpit1224@gmail.com) 
 
