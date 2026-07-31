@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Singh</h1>
-<h3 align="center">I am Bachelor of Technology in Information Technology</h3>
+<h3 align="center">I am Software Developer at Dhavi Machine Pvt Ltd</h3>
 
 - 👯 I’m looking to opportunity like **Internship & Software Engineer job**
 ## 🌐 Socials:
